@@ -1,0 +1,20 @@
+# Dataset files
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Generated files
+*.log
+.ipynb_checkpoints/
