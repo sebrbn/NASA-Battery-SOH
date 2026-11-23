@@ -1,0 +1,16 @@
+battery_id,mission_id,reason
+battery03,421,Insufficient valid samples
+battery12,233,Insufficient valid samples
+battery25,43,Insufficient valid samples
+battery25,68,Insufficient valid samples
+battery33,296,Insufficient valid samples
+battery01,707,Insufficient valid samples
+battery01,861,Insufficient valid samples
+battery10,64,Insufficient valid samples
+battery23,64,Insufficient valid samples
+battery40,108,Insufficient valid samples
+battery41,94,Insufficient valid samples
+battery50,65,Insufficient valid samples
+battery50,108,Insufficient valid samples
+battery51,235,Insufficient valid samples
+battery36,716,Insufficient valid samples
