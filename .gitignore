@@ -1,20 +1,21 @@
-# Dataset files
+﻿# Dataset (keep raw data out of GitHub)
 dataset/
 
-# Python cache
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.log
 
 # Virtual environments
-venv/
 .venv/
+venv/
+env/
 
-# Model files
-*.h5
-*.keras
-*.pth
-*.pt
-
-# Generated files
-*.log
+# Jupyter
 .ipynb_checkpoints/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
